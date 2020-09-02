@@ -7,3 +7,4 @@ mas.sort(); //Be careful!
 console.log(mas);
 mas.reverse();
 console.log(mas);
+console.log(mas.indexOf("bbb"));//3
